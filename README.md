@@ -6,5 +6,6 @@
 # Habid Ramiro Diaz, rol No-Code/Low Code Developer https://www.linkedin.com/in/habiddiazrico/
 # Juan Carlos Ulacia, rol UX (Researcher) www.linkedin.com/in/juanulacia
 # Tecnologias usadas en el proyecto
+# Bubble-Webflow-Xano
 # Enlaces del Proyecto
 
