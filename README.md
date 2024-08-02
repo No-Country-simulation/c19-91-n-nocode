@@ -8,4 +8,5 @@
 # Tecnologias usadas en el proyecto
 # Bubble-Webflow-Xano
 # Enlaces del Proyecto
+# https://www.figma.com/design/uz56zYMvUgamOKwwMuGB9L/E-NoCode?node-id=0-1&t=RnJn8EVnrSaovy8u-0
 
